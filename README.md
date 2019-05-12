@@ -13,4 +13,4 @@ A Line Based text editor is one that allows manipulation of lines of simple text
   		Undo (z) : Undo the last command
 		Redo (zz) : Redo the last undone command
   
-To run please use: java -cp "<jar-file-name>" clear.editor 
+To run please use: java -cp "jar-file" clear.editor 
